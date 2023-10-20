@@ -8,16 +8,9 @@ See: [LinkedIn](https://www.linkedin.com/in/vfyodorov/)
 ### My projects
 The best way to assess my skills is to see my projects:
 
-1. My current project is the LMS platform [Flearn](https://flearn.net) ([GitHub](https://github.com/sulianova/flearn-frontend)) which i'm co-developing with [Sofi Ulianova](https://github.com/sulianova). We are using:
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-<img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-with
-<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-EB844E?style=flat-square&logo=firebase&logoColor=white" />.
-We are hoping to develop an LMS focused on courses for illustration and design.
+1. My current project is the LMS platform [Flearn](https://flearn.net) ([GitHub](https://github.com/sulianova/flearn-frontend)) which i'm co-developing with [Sofi Ulianova](https://github.com/sulianova). We are using: <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" /> with <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-EB844E?style=flat-square&logo=firebase&logoColor=white" />. We are hoping to develop an LMS focused on courses for illustration and design.
 
-2. To see my study process feel free to look at my [Study repository](https://github.com/VladimirFyodorov/Study).
-It has tasks from **Terminal** to **DataStructures**, from **Layout to TypeScript**.
+2. To see my study process feel free to look at my [Study repository](https://github.com/VladimirFyodorov/Study). It has tasks from **Terminal** to **DataStructures**, from **Layout to TypeScript**.
 
 3. I'm also intrested in ML. My theses was **Forecasting Weather Derivatives Using LSTM Recurrent Neural Networks**. See: [Theses repo](https://github.com/VladimirFyodorov/Thesis)
 
