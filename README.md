@@ -12,6 +12,7 @@ I'm Vladimir, Web developer from Moscow, Russia, currently living in Belgrade, S
 <p>
   Backend:
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="" src="https://img.shields.io/badge/-ReactJs-61DAFB" />
   <img alt="TypeORM" src="https://img.shields.io/badge/-TypeORM-#FF5733" />
   <img alt="TypeORM" src="https%3A%2F%2Fimg.shields.io%2Fbadge%2F-TypeORM-%23FF5733">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-#4169E1?logo=postgresql" />
