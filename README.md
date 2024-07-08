@@ -3,21 +3,68 @@ I'm Vladimir, Web developer from Moscow, Russia, currently living in Belgrade, S
 
 ### WORK EXPERIENCE
 
-##### Middle Frontend developer at Educational platform Flearn
-<div style="text-align: right">08.2023 - current</div>
+<div style="display: flex; justify-content: space-between; padding-bottom: 1rem">
+  <div>
+    <span style="font-weight: bold">Middle Frontend developer</span>
+    at Educational platform
+    <a href="https://flearn.net">Flearn</a>
+    (<a href="https://github.com/sulianova/flearn-frontend">GitHub</a>)
+  </div>
+  <div>08.2023 - current</div>
+</div>
 
-### About me
-I have a bachelor's degree in economics from New Economic School and Higher School of Economics. During the last year of my program, I worked as a Data Analyst at [OZON](https://ozon.ru). After graduating in 2022, I changed my career path to Web Development.
-See: [LinkedIn](https://www.linkedin.com/in/vfyodorov/)
+* Developed application’s core architecture from scratch
 
-### My projects
-The best way to assess my skills is to see my projects:
+* Developed main frontend (Typescript, React) and backend (Firebase) functionality
 
-1. My current project is the LMS platform [Flearn](https://flearn.net) ([GitHub](https://github.com/sulianova/flearn-frontend)) which i'm co-developing with [Sofi Ulianova](https://github.com/sulianova). We are using: <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" /> with <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-EB844E?style=flat-square&logo=firebase&logoColor=white" />. We are hoping to develop an LMS focused on courses for illustration and design.
+* Set up analytics and email marketing
 
-2. To see my study process feel free to look at my [Study repository](https://github.com/VladimirFyodorov/Study). It has tasks from **Terminal** to **DataStructures**, from **Layout to TypeScript**.
+* Optimized application to improve load time on browser
 
-3. I'm also intrested in ML. My theses was **Forecasting Weather Derivatives Using LSTM Recurrent Neural Networks**. See: [Theses repo](https://github.com/VladimirFyodorov/Thesis)
+
+<div style="display: flex; justify-content: space-between; padding-bottom: 1rem; padding-top: 1rem;">
+  <div>
+    <span style="font-weight: bold">Junior/Middle Frontend developer</span>
+    at <a href="https://linkedhelper.com">LinkedHelper</a>
+  </div>
+  <div>06.2022 - 04.2024</div>
+</div>
+
+* Developed, tested and launched new user-facing features
+
+* Maintained and refactored existing functionality on frontend (Typescript, React) and backend (Typescript, TypeORM)
+
+* Developed cross-browser compatible user interface
+
+* Collaborated with product team, designers, QA and business stakeholders to ensure best user experience
+
+
+<div style="display: flex; justify-content: space-between; padding-bottom: 1rem; padding-top: 1rem;">
+  <div>
+    <span style="font-weight: bold">Junior/Middle Data analyst</span>
+    at E-Commerce <a href="https://ozon.ru">OZON</a> (Logistics)
+  </div>
+  <div>05.2021 - 05.2022</div>
+</div>
+
+* Provided analysis to support data-driven decision making
+
+* Developed and maintained Tableau dashboards based on current business requirements
+
+* Uncovered a fraudulent scheme, which cost 20% of the expansion budget
+
+* Found sub-optimal courier rates and saved 2% of the total courier costs
+
+
+### EDUCATION
+
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <span style="font-weight: bold">Bachelor's degree in economics and statistics</span>
+    at HSE and NES
+  </div>
+  <div>09.2018 - 07.2022</div>
+</div>
 
 ### Things I code with
 <p>
