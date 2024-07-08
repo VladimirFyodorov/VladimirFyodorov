@@ -1,6 +1,11 @@
 # Hey! Nice to see you
 I'm Vladimir, Web developer from Moscow, Russia, currently living in Belgrade, Serbia.
 
+### WORK EXPERIENCE
+
+##### Middle Frontend developer at Educational platform Flearn
+<div style="text-align: right">08.2023 - current</div>
+
 ### About me
 I have a bachelor's degree in economics from New Economic School and Higher School of Economics. During the last year of my program, I worked as a Data Analyst at [OZON](https://ozon.ru). After graduating in 2022, I changed my career path to Web Development.
 See: [LinkedIn](https://www.linkedin.com/in/vfyodorov/)
