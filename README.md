@@ -3,15 +3,7 @@ I'm Vladimir, Web developer from Moscow, Russia, currently living in Belgrade, S
 
 ### WORK EXPERIENCE
 
-<div style="display: flex; justify-content: space-between; padding-bottom: 1rem">
-  <div>
-    <span style="font-weight: bold">Middle Frontend developer</span>
-    at Educational platform
-    <a href="https://flearn.net">Flearn</a>
-    (<a href="https://github.com/sulianova/flearn-frontend">GitHub</a>)
-  </div>
-  <div>08.2023 - current</div>
-</div>
+#### Last position Middle Frontend developer <a href="https://flearn.net">Flearn</a> (<a href="https://github.com/sulianova/flearn-frontend">GitHub</a>)
 
 * Developed application’s core architecture from scratch
 
@@ -21,40 +13,7 @@ I'm Vladimir, Web developer from Moscow, Russia, currently living in Belgrade, S
 
 * Optimized application to improve load time on browser
 
-
-<div style="display: flex; justify-content: space-between; padding-bottom: 1rem; padding-top: 1rem;">
-  <div>
-    <span style="font-weight: bold">Junior/Middle Frontend developer</span>
-    at <a href="https://linkedhelper.com">LinkedHelper</a>
-  </div>
-  <div>06.2022 - 04.2024</div>
-</div>
-
-* Developed, tested and launched new user-facing features
-
-* Maintained and refactored existing functionality on frontend (Typescript, React) and backend (Typescript, TypeORM)
-
-* Developed cross-browser compatible user interface
-
-* Collaborated with product team, designers, QA and business stakeholders to ensure best user experience
-
-
-<div style="display: flex; justify-content: space-between; padding-bottom: 1rem; padding-top: 1rem;">
-  <div>
-    <span style="font-weight: bold">Junior/Middle Data analyst</span>
-    at E-Commerce <a href="https://ozon.ru">OZON</a> (Logistics)
-  </div>
-  <div>05.2021 - 05.2022</div>
-</div>
-
-* Provided analysis to support data-driven decision making
-
-* Developed and maintained Tableau dashboards based on current business requirements
-
-* Uncovered a fraudulent scheme, which cost 20% of the expansion budget
-
-* Found sub-optimal courier rates and saved 2% of the total courier costs
-
+#### Whole CV: <a href="https://www.linkedin.com/in/vfyodorov/">linkedin.com/in/vfyodorov</a>
 
 ### EDUCATION
 
@@ -66,7 +25,20 @@ I'm Vladimir, Web developer from Moscow, Russia, currently living in Belgrade, S
   <div>09.2018 - 07.2022</div>
 </div>
 
-### Things I code with
+* My thesis: Forecasting Weather Derivatives Using LSTM Recurrent Neural Networks
+
+### MY CONTACTS
+<a href="https://t.me/v_fyodorov">
+  <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white" />
+</a>  
+<a href="https://www.linkedin.com/in/vfyodorov/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pireseduardo/" />
+</a>  
+<a href="mailto:vfyodorov@nes.ru">
+  <img alt="vfyodorov@nes.ru" src="https://img.shields.io/badge/vfyodorov%40nes.ru-blue" />
+</a>
+
+### THINGS I CODE WITH
 <p>
   Frontend: 
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -79,6 +51,5 @@ I'm Vladimir, Web developer from Moscow, Russia, currently living in Belgrade, S
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="TypeORM" src="https://img.shields.io/badge/-TypeORM-FF5733" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-yellow" />
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirFyodorov&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
