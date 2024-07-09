@@ -13,7 +13,7 @@ I'm Vladimir, Web developer from Moscow, Russia, currently living in Belgrade, S
 
 * Optimized application to improve load time on browser
 
-#### Whole CV: <a href="https://www.linkedin.com/in/vfyodorov/">linkedin.com/in/vfyodorov</a>
+#### CV: <a href="https://www.linkedin.com/in/vfyodorov/">linkedin.com/in/vfyodorov</a>
 
 ### EDUCATION
 
