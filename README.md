@@ -9,7 +9,7 @@ I'm Vladimir, Web developer from Moscow, Russia, currently living in Belgrade, S
 
 * Managed cross-functional collaboration, ensuring seamless communication between developers, designers, and product stakeholders to meet business goals.
 
-* Implemented coding best practices and performance optimizations, while overseeing code reviews and mentoring junior developers to maintain high- quality standards.
+* Implemented coding best practices and performance optimizations, while overseeing code reviews and mentoring junior developers to maintain highquality standards.
 
 #### CV: <a href="https://www.linkedin.com/in/vfyodorov/">linkedin.com/in/vfyodorov</a>
 
