@@ -3,15 +3,13 @@ I'm Vladimir, Web developer from Moscow, Russia, currently living in Belgrade, S
 
 ### WORK EXPERIENCE
 
-#### Last position Middle Frontend developer <a href="https://flearn.net">Flearn</a> (<a href="https://github.com/sulianova/flearn-frontend">GitHub</a>)
+#### Last position Lead Frontend developer <a href="https://flearn.net">Flearn</a> (<a href="https://github.com/sulianova/flearn-frontend">GitHub</a>)
 
-* Developed application’s core architecture from scratch
+* Designed and developed the startup's core architecture using React and Firebase, leading a small team to deliver scalable, responsive applications.
 
-* Developed main frontend (Typescript, React) and backend (Firebase) functionality
+* Managed cross-functional collaboration, ensuring seamless communication between developers, designers, and product stakeholders to meet business goals.
 
-* Set up analytics and email marketing
-
-* Optimized application to improve load time on browser
+* Implemented coding best practices and performance optimizations, while overseeing code reviews and mentoring junior developers to maintain high- quality standards.
 
 #### CV: <a href="https://www.linkedin.com/in/vfyodorov/">linkedin.com/in/vfyodorov</a>
 
