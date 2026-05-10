@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/VladimirFyodorov">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Vladimir+Fyodorov;Software+Engineer+%E2%80%A2+Frontend+%E2%80%A2+Web3;AI-augmented+development;Open+to+product+teams+in+Web3+%2F+FinTech+%2F+EdTech&font=Fira%20Code&center=true&width=720&height=45&color=58A6FF&vCenter=true&size=22&pause=1200" alt="Vladimir Fyodorov — Software Engineer" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Vladimir+Fyodorov;Software+Engineer+%E2%80%A2+Frontend+%E2%80%A2+Web3;AI-augmented+development;Open+to+Web3+%E2%80%A2+FinTech+%E2%80%A2+EdTech+roles&font=Fira%20Code&center=true&width=720&height=45&color=58A6FF&vCenter=true&size=22&pause=1200" alt="Vladimir Fyodorov — Software Engineer" />
   </a>
 </h1>
 
