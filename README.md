@@ -29,7 +29,7 @@ I don't just *use* AI tools — I build the workflow around them. My current dev
 - **Tools in daily use:** [Claude Code](https://claude.com/claude-code), [Codex CLI](https://github.com/openai/codex), local LLMs via [Ollama](https://ollama.com) (qwen for QA), Playwright for browser automation.
 - **Custom workflow (`/imp` skill):** plan → skeptical Codex review → autonomous implementation → independent audit → hypothesis-driven QA → PR — fully orchestrated, with Telegram approvals at risk gates.
 - **Built-in safety:** mandatory human approve for `main` merges, fail-closed risk gates, recall/recap memory layer so context survives across sessions.
-- **Self-improvement loop:** the agent runs scientific cycles (observe → metric → hypothesis → experiment → verify) on its own delivery, scheduled in the cloud — measurable improvements per cycle.
+- **Self-improvement loop:** the agent runs scientific cycles (observe → metric → hypothesis → experiment → verify) on its own delivery, scheduled autonomously — measurable improvements per cycle.
 - **Scope:** the goal is fully remote operation — voice + Telegram, zero typing — with the agent reliably delivering and reporting.
 
 ---
