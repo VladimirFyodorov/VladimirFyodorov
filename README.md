@@ -53,7 +53,7 @@ I don't just *use* AI tools — I build the workflow around them. My current dev
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Effector-F35F19?style=for-the-badge&logo=data&logoColor=white" alt="Effector">
+  <img src="https://img.shields.io/badge/Effector-F35F19?style=for-the-badge" alt="Effector">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
@@ -62,7 +62,7 @@ I don't just *use* AI tools — I build the workflow around them. My current dev
 **Web3 & FinTech**
 
 <p>
-  <img src="https://img.shields.io/badge/TON-0098EA?style=for-the-badge&logo=tonblockchain&logoColor=white" alt="TON">
+  <img src="https://img.shields.io/badge/TON-0098EA?style=for-the-badge&logo=ton&logoColor=white" alt="TON">
   <img src="https://img.shields.io/badge/Telegram%20Mini%20Apps-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="TMA">
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum">
   <img src="https://img.shields.io/badge/Wagmi-F08533?style=for-the-badge&logo=wagmi&logoColor=white" alt="Wagmi">
@@ -73,7 +73,7 @@ I don't just *use* AI tools — I build the workflow around them. My current dev
 
 <p>
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code">
-  <img src="https://img.shields.io/badge/Codex%20CLI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex">
+  <img src="https://img.shields.io/badge/Codex%20CLI-000000?style=for-the-badge" alt="Codex">
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
