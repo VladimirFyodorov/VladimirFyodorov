@@ -1,11 +1,103 @@
-## About
+<h1 align="center">
+  <a href="https://github.com/VladimirFyodorov">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Vladimir+Fyodorov;Software+Engineer+%E2%80%A2+Frontend+%E2%80%A2+Web3;AI-augmented+development;Open+to+product+teams+in+Web3+%2F+FinTech+%2F+EdTech&font=Fira%20Code&center=true&width=720&height=45&color=58A6FF&vCenter=true&size=22&pause=1200" alt="Vladimir Fyodorov — Software Engineer" />
+  </a>
+</h1>
 
-Results-driven Software Engineer with 3+ years of experience building web applications in SaaS, EdTech, FinTech, and Web3. I help companies accelerate development, optimize performance, and implement innovative solutions—reducing time-to-market by 30–50%.
+<p align="center">
+  <a href="mailto:vfyodorov@nes.ru"><img src="https://img.shields.io/badge/Email-vfyodorov%40nes.ru-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://t.me/vfyodorov"><img src="https://img.shields.io/badge/Telegram-@vfyodorov-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://linkedin.com/in/vladimir-fyodorov"><img src="https://img.shields.io/badge/LinkedIn-Vladimir%20Fyodorov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
-At MetaLamp, I served as lead frontend developer on several projects, including a banking web app, an investment mobile application, and a DeFi solution for Telegram Mini Apps with TON payments. These products enabled clients to validate financial hypotheses and bring new fintech solutions to market faster.
+---
 
-At Flearn startup (EdTech), I led a small team and delivered an LMS MVP in 3 months—helping the company test its concept and attract early adopters.
+### 👋 About
 
-I’m eager to join product teams in Web3, FinTech, or EdTech—especially those working with React/TypeScript and cutting-edge solutions.
+- 🛠️ **Software engineer with 3+ years** shipping web apps in **SaaS, EdTech, FinTech, Web3**.
+- 🚀 At **MetaLamp**: lead frontend on a banking web app, an investment mobile app, and a **TON-based DeFi Mini App** for Telegram.
+- 📚 At **Flearn (EdTech)**: led a small team and shipped an LMS MVP in **3 months**.
+- 🎯 Help teams cut **time-to-market by 30–50%** through pragmatic delivery and modern tooling.
+- 🌍 Open to product teams working in **Web3, FinTech, EdTech** with React/TypeScript and AI-augmented workflows.
 
-Contact: vfyodorov@nes.ru | Telegram | LinkedIn
+---
+
+### 🤖 AI-augmented coding
+
+I don't just *use* AI tools — I build the workflow around them. My current dev loop is a multi-agent pipeline I designed and iterate on continuously.
+
+- **Tools in daily use:** [Claude Code](https://claude.com/claude-code), [Codex CLI](https://github.com/openai/codex), local LLMs via [Ollama](https://ollama.com) (qwen for QA), Playwright for browser automation.
+- **Custom workflow (`/imp` skill):** plan → skeptical Codex review → autonomous implementation → independent audit → hypothesis-driven QA → PR — fully orchestrated, with Telegram approvals at risk gates.
+- **Built-in safety:** mandatory human approve for `main` merges, fail-closed risk gates, recall/recap memory layer so context survives across sessions.
+- **Self-improvement loop:** the agent runs scientific cycles (observe → metric → hypothesis → experiment → verify) on its own delivery, scheduled in the cloud — measurable improvements per cycle.
+- **Scope:** the goal is fully remote operation — voice + Telegram, zero typing — with the agent reliably delivering and reporting.
+
+---
+
+### 🧰 Tech stack
+
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Effector-F35F19?style=for-the-badge&logo=data&logoColor=white" alt="Effector">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind">
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
+</p>
+
+**Web3 & FinTech**
+
+<p>
+  <img src="https://img.shields.io/badge/TON-0098EA?style=for-the-badge&logo=tonblockchain&logoColor=white" alt="TON">
+  <img src="https://img.shields.io/badge/Telegram%20Mini%20Apps-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="TMA">
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum">
+  <img src="https://img.shields.io/badge/Wagmi-F08533?style=for-the-badge&logo=wagmi&logoColor=white" alt="Wagmi">
+  <img src="https://img.shields.io/badge/Viem-F6B400?style=for-the-badge&logo=ethereum&logoColor=black" alt="Viem">
+</p>
+
+**AI / Agents / Tooling**
+
+<p>
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code">
+  <img src="https://img.shields.io/badge/Codex%20CLI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex">
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
+
+---
+
+### 📊 GitHub stats
+
+<p align="center">
+  <a href="https://github.com/VladimirFyodorov">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=VladimirFyodorov&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub stats" />
+  </a>
+  <a href="https://github.com/VladimirFyodorov">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirFyodorov&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/VladimirFyodorov">
+    <img src="https://streak-stats.demolab.com/?user=VladimirFyodorov&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+  </a>
+</p>
+
+---
+
+<p align="center"><sub>⚡ Open to interesting product teams. The fastest way to reach me — Telegram.</sub></p>
