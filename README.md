@@ -85,10 +85,10 @@ I don't just *use* AI tools — I build the workflow around them. My current dev
 
 <p align="center">
   <a href="https://github.com/VladimirFyodorov">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=VladimirFyodorov&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub stats" />
+    <img height="170" src="https://github-readme-stats.hackclub.dev/api?username=VladimirFyodorov&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub stats" />
   </a>
   <a href="https://github.com/VladimirFyodorov">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirFyodorov&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+    <img height="170" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=VladimirFyodorov&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
   </a>
 </p>
 
