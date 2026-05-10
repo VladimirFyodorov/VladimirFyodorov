@@ -36,6 +36,8 @@ I don't just *use* AI tools — I build the workflow around them. My current dev
 
 ### 🧰 Tech stack
 
+> Day-to-day + production work across MetaLamp / Flearn projects (most of it lives in private/company repos — see *Featured public work* below for what's open).
+
 **Languages**
 
 <p>
