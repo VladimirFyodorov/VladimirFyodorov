@@ -81,6 +81,17 @@ I don't just *use* AI tools — I build the workflow around them. My current dev
 
 ---
 
+### 📌 Featured public work
+
+> Most production work lives in private/company repos. Public side projects:
+
+- 🛠️ **[lexer](https://github.com/VladimirFyodorov/lexer)** — *TypeScript* · build-your-own programming language: tokenizer + parser experiments.
+- 💬 **[messenger](https://github.com/VladimirFyodorov/messenger)** — *TypeScript* · realtime messenger sandbox.
+- 📈 **[Thesis](https://github.com/VladimirFyodorov/Thesis)** — *Python / Jupyter* · forecasting weather derivatives with LSTM RNNs (master's thesis).
+- 💰 **[Finance](https://github.com/VladimirFyodorov/Finance)** — *Python* · quick-look on company financial performance.
+
+---
+
 ### 📊 GitHub stats
 
 <p align="center">
