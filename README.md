@@ -94,6 +94,31 @@ I don't just *use* AI tools — I build the workflow around them. My current dev
 
 ---
 
+
+---
+
+### 🛠️ Claude Code Skills
+
+A collection of standalone open-source skills for [Claude Code](https://claude.ai/code) — covering the full AI-assisted dev cycle:
+
+| Skill | Description |
+|-------|-------------|
+| [claude-skill-imp](https://github.com/VladimirFyodorov/claude-skill-imp) | Full dev-cycle orchestrator: plan → review → iterate → audit → PR |
+| [claude-skill-telegram](https://github.com/VladimirFyodorov/claude-skill-telegram) | Telegram notifications and inbox integration |
+| [claude-skill-slack](https://github.com/VladimirFyodorov/claude-skill-slack) | Slack diagnostics and draft integration |
+| [claude-skill-tracker](https://github.com/VladimirFyodorov/claude-skill-tracker) | Yandex Tracker task management |
+| [claude-skill-qa-agent](https://github.com/VladimirFyodorov/claude-skill-qa-agent) | Hypothesis-driven QA with Playwright |
+| [claude-skill-planner](https://github.com/VladimirFyodorov/claude-skill-planner) | Big-task implementation planner |
+| [claude-skill-review](https://github.com/VladimirFyodorov/claude-skill-review) | Code review (PR/branch/commits) |
+| [claude-skill-fix-audit](https://github.com/VladimirFyodorov/claude-skill-fix-audit) | Lightweight audit for quick fixes |
+| [claude-skill-iteration-implementer](https://github.com/VladimirFyodorov/claude-skill-iteration-implementer) | Iteration implementer from plan.md |
+| [claude-skill-auditor](https://github.com/VladimirFyodorov/claude-skill-auditor) | Audit iteration results against ACs |
+| [claude-skill-session](https://github.com/VladimirFyodorov/claude-skill-session) | Local model (Ollama) reference guide |
+
+Install: `git clone https://github.com/VladimirFyodorov/claude-skill-<name> && bash claude-skill-<name>/install.sh`
+
+---
+
 ### 📊 GitHub stats
 
 <p align="center">
